@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+-----
+Things I learned. 
+make css root variables so you can use the same color/ styling all across. 
+use rem so for most things so they all look the same spacing. 
+learn to use Email js - 
+
+Things want to add - 
+send a pop out saying that the message is sent. 
