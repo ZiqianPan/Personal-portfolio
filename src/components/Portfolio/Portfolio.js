@@ -9,8 +9,8 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Pawster",
-    github: "https://github.com/ZiqianPan/Pawster-capstone-project",
+    title: "Pawster(Shelter Animal tinder)",
+    github: "https://github.com/ZiqianPan/Pawster-Capstone-My-Copy",
     demo: "https://pawster-capstone.netlify.app/",
   },
   {
